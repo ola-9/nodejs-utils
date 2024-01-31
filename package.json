@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-utils",
+  "version": "1.0.0",
+  "description": "utils",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OP",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.1.0"
+  }
+}
